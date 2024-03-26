@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "91bd235113c84cc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b09fff797d3507c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03a51157aadeffb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Безопасность/Кеширование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea71dde8a8de092c",
+    "type": "split",
+    "children": [
+      {
+        "id": "50885486f41722cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51a97b87fe0bcf74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "893b8e2e24b187d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d26354e23f5d52e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5616609410fc5e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccdffbefbd5fbe83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deef0e9642770611",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Безопасность/Кеширование.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b33fa91ab9deb14b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Безопасность/Кеширование.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "446e78f985f4b7c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1705d9b769a1d05b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Безопасность/Кеширование.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "d03a51157aadeffb",
+  "lastOpenFiles": [
+    "TypeScript/Util Types.md",
+    "TypeScript/tsconfig.json.md",
+    "TypeScript/Interface vs Type.md",
+    "TypeScript/Generics.md",
+    "CSS/CSS-IN-JS.md",
+    "Задачи/React.md",
+    "Задачи/JavaScript.md",
+    "Задачи/CSS.md",
+    "Безопасность/Кеширование.md",
+    "Задачи/Сбер.md",
+    "Алгоритмы/Общее.md",
+    "Опыт.md",
+    "CSS/Блочная модель.md",
+    "Вопросы на собеседование/RTK Query.md",
+    "CSS/Вес селекторов.md",
+    "CSS/images/css-box-model.avif",
+    "Без названия.canvas",
+    "Задачи",
+    "CSS/images",
+    "Вопросы на собеседование/Взаимодействие с сервером.md",
+    "Вопросы на собеседование/Безопасность.md",
+    "Вопросы на собеседование/Профилирование.md",
+    "Вопросы на собеседование/JavaScript.md",
+    "Вопросы на собеседование/Next.js.md",
+    "Вопросы на собеседование/Redux.md",
+    "Вопросы на собеседование/React.md",
+    "Вопросы на собеседование/CSS.md",
+    "Вопросы на собеседование/HTML.md",
+    "CSS/SCSS.md",
+    "CSS/Grid.md",
+    "Вопросы на собеседование",
+    "Календарь",
+    "Алгоритмы",
+    "Паттерны проектирования",
+    "Оптимизация",
+    "Прочее",
+    "Next.js",
+    "Безопасность",
+    "Untitled.canvas"
+  ]
+}

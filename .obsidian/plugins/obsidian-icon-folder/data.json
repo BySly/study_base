@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "OcCodeSquare24",
+      "OcImage24",
+      "OcQuestion24",
+      "OcFileDirectoryFill24",
+      "OcFileDirectoryFill16"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Алгоритмы": "OcFileDirectoryFill24",
+  "Безопасность": "OcFileDirectoryFill24",
+  "Оптимизация": "OcFileDirectoryFill24",
+  "Паттерны проектирования": "OcFileDirectoryFill24",
+  "Прочее": "OcFileDirectoryFill24",
+  "CSS": "OcFileDirectoryFill24",
+  "Git": "OcFileDirectoryFill24",
+  "HTML": "OcFileDirectoryFill24",
+  "JavaScript": "OcFileDirectoryFill24",
+  "Next.js": "OcFileDirectoryFill24",
+  "React": "OcFileDirectoryFill24",
+  "Redux": "OcFileDirectoryFill24",
+  "RTK Query": "OcFileDirectoryFill24",
+  "TypeScript": "OcFileDirectoryFill24",
+  "Вопросы на собеседование": "OcQuestion24",
+  "CSS/images": "OcImage24",
+  "Задачи": "OcCodeSquare24"
+}
